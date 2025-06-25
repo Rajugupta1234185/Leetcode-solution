@@ -7,6 +7,7 @@ This contains leetcode solution only.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ This contains leetcode solution only.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
