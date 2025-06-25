@@ -15,4 +15,16 @@ This contains leetcode solution only.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajugupta1234185/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
